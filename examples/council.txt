@@ -1,0 +1,13 @@
+# Town council: 9 seats, five lists, 5% threshold.
+# Directives: seats N | method NAME | threshold P% | party NAME VOTES
+# Text after '#' is a comment.
+
+seats 9
+method dhondt
+threshold 5%
+
+party Greenfield 41200
+party Riverside 28950
+party Northgate 19870
+party Hilltop 6010
+party Fringe 1180
